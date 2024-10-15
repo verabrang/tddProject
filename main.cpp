@@ -1,4 +1,5 @@
 #include "printer/printer.h"
+#include "generation/generation.h"
 
 int main()
 {
@@ -20,3 +21,4 @@ int main()
 
 	return 0;
 }
+
